@@ -7,5 +7,11 @@
       <jdbc-driver>ru.yandex.clickhouse.ClickHouseDriver</jdbc-driver>
       <jdbc-url>jdbc:clickhouse://47.92.132.93:8123</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="pub" uuid="7dffaa98-fd32-48b9-b9d9-fdd037a3557a">
+      <driver-ref>clickhouse</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>ru.yandex.clickhouse.ClickHouseDriver</jdbc-driver>
+      <jdbc-url>jdbc:clickhouse://47.92.113.3:8123</jdbc-url>
+    </data-source>
   </component>
 </project>

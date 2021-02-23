@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="d809d6e6-a8d1-4848-8403-613e10678ea1" />
+          <option name="name" value="data_sum" />
+          <option name="urls">
+            <array>
+              <option value="file://$USER_HOME$/Documents/project/clickhouse/data_sum.sql" />
+            </array>
+          </option>
+          <option name="remarks" value="数据库定义" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>

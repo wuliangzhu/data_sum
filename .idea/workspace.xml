@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d4273fa-6457-4f99-9576-d0c62307cfbc" name="Default Changelist" comment="" />
+    <list default="true" id="7d4273fa-6457-4f99-9576-d0c62307cfbc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
   <component name="ProjectId" id="1orjrg0bnORcxy8V8DWqkRJe3d9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,17 +30,37 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="WindowStateProjectService">
-    <state x="496" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614052180055">
-      <screen x="0" y="23" width="1792" height="1017" />
+    <state x="496" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614059031954">
+      <screen x="0" y="23" width="1792" height="1030" />
     </state>
     <state x="496" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1614052180055" />
-    <state width="243" height="457" key="HiddenNamespacesPopup" timestamp="1614052191068">
-      <screen x="0" y="23" width="1792" height="1017" />
+    <state x="496" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1024@0.23.1792.1024" timestamp="1614058399548" />
+    <state x="496" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1614058669714" />
+    <state x="496" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1030@0.23.1792.1030" timestamp="1614059031954" />
+    <state x="731" y="438" width="591" height="192" key="Github.ShareDialog" timestamp="1614058255262">
+      <screen x="0" y="23" width="1792" height="1020" />
+    </state>
+    <state x="731" y="438" width="591" height="192" key="Github.ShareDialog/0.23.1792.1020@0.23.1792.1020" timestamp="1614058255262" />
+    <state x="483" y="246" key="Github.UntrackedFilesDialog" timestamp="1614058306607">
+      <screen x="0" y="23" width="1792" height="1020" />
+    </state>
+    <state x="483" y="246" key="Github.UntrackedFilesDialog/0.23.1792.1020@0.23.1792.1020" timestamp="1614058306607" />
+    <state width="243" height="461" key="HiddenNamespacesPopup" timestamp="1614058448037">
+      <screen x="0" y="23" width="1792" height="1024" />
     </state>
     <state width="243" height="457" key="HiddenNamespacesPopup/0.23.1792.1017@0.23.1792.1017" timestamp="1614052191068" />
+    <state width="243" height="461" key="HiddenNamespacesPopup/0.23.1792.1024@0.23.1792.1024" timestamp="1614058448037" />
     <state x="397" y="170" key="SettingsEditor" timestamp="1614051902899">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="397" y="170" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1614051902899" />
+    <state x="458" y="274" key="Vcs.Push.Dialog.v2" timestamp="1614058145975">
+      <screen x="0" y="23" width="1792" height="1020" />
+    </state>
+    <state x="458" y="274" key="Vcs.Push.Dialog.v2/0.23.1792.1020@0.23.1792.1020" timestamp="1614058145975" />
+    <state x="656" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614057807304">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="656" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1017@0.23.1792.1017" timestamp="1614057807304" />
   </component>
 </project>

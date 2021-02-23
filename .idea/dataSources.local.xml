@@ -17,5 +17,21 @@
         </introspection-scope>
       </schema-mapping>
     </data-source>
+    <data-source name="pub" uuid="7dffaa98-fd32-48b9-b9d9-fdd037a3557a">
+      <database-info product="ClickHouse" version="20.12.5.14" jdbc-version="0.1" driver-name="ru.yandex.clickhouse-jdbc" driver-version="0.1" dbms="CLICKHOUSE" exact-version="20.12.5.14" exact-driver-version="0.1">
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>dbnengxi</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema">
+            <name qname="@" />
+            <name qname="elec_aggregate" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
   </component>
 </project>
