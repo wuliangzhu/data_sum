@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d4273fa-6457-4f99-9576-d0c62307cfbc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+    <list default="true" id="7d4273fa-6457-4f99-9576-d0c62307cfbc" name="Default Changelist" comment="init the project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +20,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DBE.Init.BalloonShown" value="true" />
     <property name="DatabaseDriversLRU" value="clickhouse" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -29,6 +28,10 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="init the project" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="496" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614059031954">
       <screen x="0" y="23" width="1792" height="1030" />
@@ -37,6 +40,10 @@
     <state x="496" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1024@0.23.1792.1024" timestamp="1614058399548" />
     <state x="496" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1614058669714" />
     <state x="496" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1030@0.23.1792.1030" timestamp="1614059031954" />
+    <state x="664" y="460" key="Github.CreateGistDialog" timestamp="1614059133465">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="664" y="460" key="Github.CreateGistDialog/0.23.1792.1030@0.23.1792.1030" timestamp="1614059133465" />
     <state x="731" y="438" width="591" height="192" key="Github.ShareDialog" timestamp="1614058255262">
       <screen x="0" y="23" width="1792" height="1020" />
     </state>
@@ -54,10 +61,11 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="397" y="170" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1614051902899" />
-    <state x="458" y="274" key="Vcs.Push.Dialog.v2" timestamp="1614058145975">
-      <screen x="0" y="23" width="1792" height="1020" />
+    <state x="458" y="276" key="Vcs.Push.Dialog.v2" timestamp="1614059123232">
+      <screen x="0" y="23" width="1792" height="1030" />
     </state>
     <state x="458" y="274" key="Vcs.Push.Dialog.v2/0.23.1792.1020@0.23.1792.1020" timestamp="1614058145975" />
+    <state x="458" y="276" key="Vcs.Push.Dialog.v2/0.23.1792.1030@0.23.1792.1030" timestamp="1614059123232" />
     <state x="656" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614057807304">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
