@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="hoteltest" uuid="d132b6e0-803b-43c1-a19e-47338a0709bb">
+      <database-info product="ClickHouse" version="20.12.5.14" jdbc-version="0.1" driver-name="ru.yandex.clickhouse-jdbc" driver-version="0.1" dbms="CLICKHOUSE" exact-version="20.12.5.14" exact-driver-version="0.1">
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>dbnengxi</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema">
+            <name qname="@" />
+            <name qname="elec_aggregate" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+  </component>
+</project>
